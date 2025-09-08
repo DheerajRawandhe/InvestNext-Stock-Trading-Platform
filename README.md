@@ -4,7 +4,7 @@ A modern stock trading platform inspired by **Zerodha**, built using the **MERN 
 It provides real-time market data, portfolio tracking, and a smooth trading experience with a secure and responsive interface.🚀
 
 
-## 📌 Features
+## Features 📌 
 - 📊 Real-time stock market data visualization  
 - 💹 Buy/Sell order management  
 - 📈 Portfolio tracking and performance analysis  
