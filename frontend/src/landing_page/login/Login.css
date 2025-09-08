@@ -1,0 +1,30 @@
+
+.login{
+  display: flex;
+  justify-content: center;
+  height: 20rem;
+
+}
+
+.login-page {
+  background-color: rgb(232, 232, 232);
+  width: 35%;
+  border-radius: 5px;
+  
+}
+
+.forget{
+  text-decoration: none;
+  font-size: 0.8rem  ;
+  margin-top: 5px;
+  margin-left: 4rem;
+}
+
+.login-btn{
+  width: 90%;
+margin-left: 1rem;  
+}
+
+.login-btn:hover{
+  background-color: orangered;
+}

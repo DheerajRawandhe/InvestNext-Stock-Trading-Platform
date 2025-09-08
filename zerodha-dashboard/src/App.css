@@ -1,0 +1,36 @@
+/* ---------- Summery Section ------------------- */
+
+.console-img{
+  height: 0.8rem;
+  width: 0.8rem;
+}
+
+.view-stste a{
+  text-decoration: none;
+
+}
+
+.view-stste a:hover{
+  color: red;
+}
+
+.holding-values{
+  display: flex;
+  justify-content:space-between ;
+  
+}
+
+.market-img img{
+
+  width: 100%; 
+  object-fit: contain;
+}
+
+
+/*---------------- Pogition section --------------- */
+
+.breakdown-graph img{
+  object-fit: cover;
+  width: 50rem;
+ 
+}

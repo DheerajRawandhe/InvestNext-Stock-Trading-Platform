@@ -1,0 +1,110 @@
+.signup-page{
+  margin-top: 8rem;
+}
+
+.account-img{
+  height: 32rem;
+  width: 32rem;
+
+}
+
+.signup-number{
+  border: 1px solid rgb(81, 81, 81);
+  /* font-size: 1.2rem; */
+}
+
+.sign-num{
+  width: 45%;
+  height: 2.7rem;
+}
+
+.otp{
+  font-size: small;
+}
+
+.continue-btn{
+  background-color: #387ed1;
+  color: white;
+  border: 1px solid #387ed1;
+  height: 2.7rem;
+  width: 8rem;
+  border-radius: 5px;
+  font-size: large;
+}
+
+.continue-btn:hover{
+  background-color: black;
+}
+
+.account-open{
+  color: #003edc;
+  font-size: 12px;
+}
+
+.procee{
+  font-size: 12px;
+}
+
+.explore-btn{
+  background-color: #387ed1;
+  color: white;
+  border: 1px solid #387ed1;
+  height: 2.7rem;
+  width: 12rem;
+  border-radius: 5px;
+  font-size: large;
+}
+
+.explore-btn:hover{
+  background-color: black;
+}
+.steps-btn{
+  border-radius: 25%;
+  border: 1px solid black;
+}
+
+.steps-num{
+  border: 1px solid black;
+  width: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+
+}
+
+.invest-main{
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*=================== Benefits  Section =================== */
+
+.benefits-img{
+height: 22rem;
+width: 22rem;
+
+}
+
+
+.invest-para{
+  border: 1px solid black;
+  width: 25%;
+  height: 9.5rem;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.invest-para:hover{
+  border:  1.5px solid rgb(14, 118, 255);
+}
+
+
+.signup-btn{
+  width: 40%;
+  /* margin-left: 3rem; */
+}
+
+.signup-btn:hover{
+  background-color: black;
+}
