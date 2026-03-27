@@ -1,4 +1,4 @@
-# InvestNext – Stock Trading Platform
+# InvestNext – Stock Trading Platform :
 
 A modern stock trading platform inspired by **Zerodha**, built using the **MERN stack**.
 It provides real-time market data, portfolio tracking, and a smooth trading experience with a secure and responsive interface.
